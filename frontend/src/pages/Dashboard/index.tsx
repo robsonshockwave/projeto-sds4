@@ -4,7 +4,6 @@ import DataTable from "../../components/DataTable";
 import Footer from "../../components/Footer";
 import NavBar from "../../components/NavBar";
 
-
 const Dashboard = () => {
     return (
         <>
